@@ -1,0 +1,57 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+            color: #333;
+        }
+        .contact-info {
+            text-align: center;
+            margin: 10px 0;
+            color: #555;
+        }
+        .contact-info a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .section h2 {
+            color: #333;
+        }
+        .experience, .education, .certifications, .skills {
+            margin-bottom: 20px;
+        }
+        .experience-item, .education-item, .certification-item, .skill-item {
+            margin-bottom: 10px;
+        }
+        .experience-item p, .education-item p {
+            margin: 5px 0;
+        }
+        .skills ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills ul li {
+            background-color: #f1f1f1;
+            margin: 5px;
+            padding: 5px;
+            border-radius: 5px;
+        }
+</style>
